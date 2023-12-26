@@ -1,2 +1,2 @@
 # LichessAnalysis
-Analyze the games I played on Lichess to improve at chess
+Analyze the games I played on Lichess to improve my at chess
